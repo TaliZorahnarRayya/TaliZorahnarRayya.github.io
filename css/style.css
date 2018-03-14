@@ -48,10 +48,10 @@ header nav ul a li, header nav ul a:link li, header nav ul a:visited li {
   margin: 10px auto;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y4OWMyYiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2M0N2MyMyIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #9f912a), color-stop(100%, #ffa500));
-  background-image: -moz-linear-gradient(#9f912a, #ffa500);
-  background-image: -webkit-linear-gradient(#9f912a, #ffa500);
-  background-image: linear-gradient(#9f912a, #ffa500);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #ffa500));
+  background-image: -moz-linear-gradient(#ffffff, #ffa500);
+  background-image: -webkit-linear-gradient(#ffffff, #ffa500);
+  background-image: linear-gradient(#ffffff, #ffa500);
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   border-radius: 10px;
@@ -78,10 +78,10 @@ header nav ul a li, header nav ul a:link li, header nav ul a:visited li {
 header nav ul a li:hover, header nav ul a:link li:hover, header nav ul a:visited li:hover {
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M0N2MyMyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y4OWMyYiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffa500), color-stop(100%, #9f912a));
-  background-image: -moz-linear-gradient(#ffa500, #9f912a);
-  background-image: -webkit-linear-gradient(#ffa500, #9f912a);
-  background-image: linear-gradient(#ffa500, #9f912a);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffa500), color-stop(100%, #ffffff));
+  background-image: -moz-linear-gradient(#ffa500, #ffffff);
+  background-image: -webkit-linear-gradient(#ffa500, #ffffff);
+  background-image: linear-gradient(#ffa500, #ffffff);
   text-decoration: none;
 }
 header nav ul a li:active, header nav ul a:link li:active, header nav ul a:visited li:active {
@@ -131,7 +131,7 @@ section .inside-section .section-heading h1 {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  color: #9f912a;
+  color: #ffffff;
   font-family: "coc";
   font-weight: 900;
   font-size: 2em;
@@ -147,7 +147,7 @@ section .inside-section .section-heading h2 {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  color: #9f912a;
+  color: #ffffff;
   font-family: "coc";
   font-weight: 900;
   font-size: 2em;
@@ -236,20 +236,20 @@ color:white;
   
 }
 .connect_section .account_connect_area .connect-btn-area .connect-button {
-  -moz-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  -webkit-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  box-shadow: inset 0px 1px 0px 0px #9f912a;
+  -moz-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZWM2NCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYWIyMyIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #9f912a), color-stop(100%, #c9b628));
-  background-image: -moz-linear-gradient(#9f912a, #c9b628);
-  background-image: -webkit-linear-gradient(#9f912a, #c9b628);
-  background-image: linear-gradient(#9f912a, #c9b628);
-  background-color: #9f912a;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #c9b628));
+  background-image: -moz-linear-gradient(#ffffff, #c9b628);
+  background-image: -webkit-linear-gradient(#ffffff, #c9b628);
+  background-image: linear-gradient(#ffffff, #c9b628);
+  background-color: #ffffff;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  border: 1px solid #9f912a;
+  border: 1px solid #ffffff;
   display: inline-block;
   cursor: pointer;
   color: #333333;
@@ -265,10 +265,10 @@ color:white;
 .connect_section .account_connect_area .connect-btn-area .connect-button:hover {
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmYWIyMyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZWM2NCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #9f912a));
-  background-image: -moz-linear-gradient(#c9b628, #9f912a);
-  background-image: -webkit-linear-gradient(#c9b628, #9f912a);
-  background-image: linear-gradient(#c9b628, #9f912a);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #ffffff));
+  background-image: -moz-linear-gradient(#c9b628, #ffffff);
+  background-image: -webkit-linear-gradient(#c9b628, #ffffff);
+  background-image: linear-gradient(#c9b628, #ffffff);
   background-color: #c9b628;
 }
 .connect_section .account_connect_area .connect-btn-area .connect-button:active {
@@ -368,21 +368,21 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
   }
 }
 #gen_section .section-content .generator-section .gen-button {
-  -moz-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  -webkit-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  box-shadow: inset 0px 1px 0px 0px #9f912a;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c9b628), color-stop(1, #9f912a));
-  background: -moz-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -webkit-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -o-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -ms-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: linear-gradient(to bottom, #c9b628 5%, #9f912a 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9b628', endColorstr='#9f912a',GradientType=0);
+  -moz-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c9b628), color-stop(1, #ffffff));
+  background: -moz-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -webkit-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -o-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -ms-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: linear-gradient(to bottom, #c9b628 5%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9b628', endColorstr='#ffffff',GradientType=0);
   background-color: #c9b628;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-  border: 1px solid #9f912a;
+  border: 1px solid #ffffff;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
@@ -401,35 +401,35 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
   }
 }
 #gen_section .section-content .generator-section .gen-button:hover {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #9f912a), color-stop(1, #c9b628));
-  background: -moz-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -webkit-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -o-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -ms-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: linear-gradient(to bottom, #9f912a 5%, #c9b628 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9f912a', endColorstr='#c9b628',GradientType=0);
-  background-color: #9f912a;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #c9b628));
+  background: -moz-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -webkit-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -o-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -ms-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: linear-gradient(to bottom, #ffffff 5%, #c9b628 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#c9b628',GradientType=0);
+  background-color: #ffffff;
 }
 #gen_section .section-content .generator-section .gen-button:active {
   position: relative;
   top: 1px;
 }
 #gen_section .section-content .generator-section .how-button {
-  -moz-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  -webkit-box-shadow: inset 0px 1px 0px 0px #9f912a;
-  box-shadow: inset 0px 1px 0px 0px #9f912a;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #9f912a), color-stop(1, #c9b628));
-  background: -moz-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -webkit-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -o-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: -ms-linear-gradient(top, #9f912a 5%, #c9b628 100%);
-  background: linear-gradient(to bottom, #9f912a 5%, #c9b628 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9f912a', endColorstr='#c9b628',GradientType=0);
-  background-color: #9f912a;
+  -moz-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #c9b628));
+  background: -moz-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -webkit-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -o-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: -ms-linear-gradient(top, #ffffff 5%, #c9b628 100%);
+  background: linear-gradient(to bottom, #ffffff 5%, #c9b628 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#c9b628',GradientType=0);
+  background-color: #ffffff;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  border: 1px solid #9f912a;
+  border: 1px solid #ffffff;
   display: inline-block;
   cursor: pointer;
   color: #333333;
@@ -442,13 +442,13 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
   width: 100%;
 }
 #gen_section .section-content .generator-section .how-button:hover {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c9b628), color-stop(1, #9f912a));
-  background: -moz-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -webkit-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -o-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: -ms-linear-gradient(top, #c9b628 5%, #9f912a 100%);
-  background: linear-gradient(to bottom, #c9b628 5%, #9f912a 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9b628', endColorstr='#9f912a',GradientType=0);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c9b628), color-stop(1, #ffffff));
+  background: -moz-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -webkit-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -o-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: -ms-linear-gradient(top, #c9b628 5%, #ffffff 100%);
+  background: linear-gradient(to bottom, #c9b628 5%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9b628', endColorstr='#ffffff',GradientType=0);
   background-color: #c9b628;
 }
 #gen_section .section-content .generator-section .how-button:active {
@@ -670,15 +670,15 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
   box-shadow: inset 0px 1px 0px 0px #58aff0;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzJkODBiZSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzIwNWU4ZCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #9f912a));
-  background-image: -moz-linear-gradient(#c9b628, #9f912a);
-  background-image: -webkit-linear-gradient(#c9b628, #9f912a);
-  background-image: linear-gradient(#c9b628, #9f912a);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #ffffff));
+  background-image: -moz-linear-gradient(#c9b628, #ffffff);
+  background-image: -webkit-linear-gradient(#c9b628, #ffffff);
+  background-image: linear-gradient(#c9b628, #ffffff);
   background-color: #c9b628;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  border: 1px solid #9f912a;
+  border: 1px solid #ffffff;
   display: inline-block;
   cursor: pointer;
   color: #fff;
@@ -693,11 +693,11 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 .comments_section .comment_btn_area .comment_btn:hover {
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzIwNWU4ZCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzJkODBiZSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #9f912a), color-stop(100%, #c9b628));
-  background-image: -moz-linear-gradient(#9f912a, #c9b628);
-  background-image: -webkit-linear-gradient(#9f912a, #c9b628);
-  background-image: linear-gradient(#9f912a, #c9b628);
-  background-color: #9f912a;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #c9b628));
+  background-image: -moz-linear-gradient(#ffffff, #c9b628);
+  background-image: -webkit-linear-gradient(#ffffff, #c9b628);
+  background-image: linear-gradient(#ffffff, #c9b628);
+  background-color: #ffffff;
 }
 .comments_section .comment_btn_area .comment_btn:active {
   position: relative;
@@ -919,10 +919,10 @@ background: #999795;
   box-shadow: inset 0px 1px 0px 0px #56b4d8;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzJjOGZiNCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFhNjc4NCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #9f912a), color-stop(100%, #c9b628));
-  background-image: -moz-linear-gradient(#9f912a, #c9b628);
-  background-image: -webkit-linear-gradient(#9f912a, #c9b628);
-  background-image: linear-gradient(#9f912a, #c9b628);
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #c9b628));
+  background-image: -moz-linear-gradient(#ffffff, #c9b628);
+  background-image: -webkit-linear-gradient(#ffffff, #c9b628);
+  background-image: linear-gradient(#ffffff, #c9b628);
   background-color: #c9b628;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -944,11 +944,11 @@ background: #999795;
 #gen_modal .generator_finished_area .activate_code:hover {
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFhNjc4NCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzJjOGZiNCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #9f912a));
-  background-image: -moz-linear-gradient(#c9b628, #9f912a);
-  background-image: -webkit-linear-gradient(#c9b628, #9f912a);
-  background-image: linear-gradient(#c9b628, #9f912a);
-  background-color: #9f912a;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c9b628), color-stop(100%, #ffffff));
+  background-image: -moz-linear-gradient(#c9b628, #ffffff);
+  background-image: -webkit-linear-gradient(#c9b628, #ffffff);
+  background-image: linear-gradient(#c9b628, #ffffff);
+  background-color: #ffffff;
 }
 #gen_modal .generator_finished_area .activate_code:active {
   position: relative;
@@ -985,7 +985,7 @@ background: #999795;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  color: #9f912a;
+  color: #ffffff;
   font-family: "coc";
   font-weight: 900;
   font-size: 2em;
